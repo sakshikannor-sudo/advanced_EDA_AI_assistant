@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Expiry_Date,Supplier,Price_INR
+P001,Eye Drops,Tablet,170,2028-05-05,LifeCare Suppliers,419.03
+P002,Nasal Spray,Injection,176,2028-02-20,PharmaPlus,68.63
+P003,Aspirin 75mg,Medical Supply,90,2027-05-31,Wellness Distributors,84.57
+P004,Cetirizine 10mg,Syrup,177,2026-04-09,MediHealth Pvt Ltd,350.29
+P005,ORS Sachet,Tablet,135,2027-12-25,LifeCare Suppliers,388.55
+P006,Ibuprofen 200mg,Tablet,192,2027-11-26,LifeCare Suppliers,470.46
+P007,Omeprazole 20mg,Medical Supply,38,2026-09-28,MediHealth Pvt Ltd,490.36
+P008,Omeprazole 20mg,Syrup,101,2027-02-26,PharmaPlus,57.99
+P009,Amoxicillin 250mg,Capsule,117,2028-06-17,PharmaPlus,138.68
+P010,Cough Syrup,Injection,32,2026-03-24,MediHealth Pvt Ltd,220.09
+P011,Nasal Spray,Capsule,110,2027-07-16,LifeCare Suppliers,25.25
+P012,Cetirizine 10mg,Ointment,88,2027-09-02,Wellness Distributors,276.26
+P013,Cough Syrup,Tablet,168,2028-07-06,LifeCare Suppliers,238.23
+P014,Glucose Powder,Syrup,89,2026-11-13,PharmaPlus,321.02
+P015,Amoxicillin 250mg,Syrup,98,2027-03-18,Wellness Distributors,187.77
+P016,Vitamin C Tablets,Syrup,19,2027-12-01,PharmaPlus,492.8
+P017,Ibuprofen 200mg,Injection,80,2027-01-07,PharmaPlus,368.85
+P018,Multivitamin Capsules,Ointment,30,2027-10-11,MediHealth Pvt Ltd,247.83
+P019,Pain Relief Gel,Ointment,121,2028-06-30,PharmaPlus,226.93
+P020,Vitamin C Tablets,Syrup,31,2027-01-05,LifeCare Suppliers,477.84
+P021,Metformin 500mg,Injection,55,2027-11-27,Wellness Distributors,325.82
+P022,Cough Syrup,Syrup,62,2028-01-30,PharmaPlus,118.02
+P023,Ibuprofen 200mg,Ointment,145,2028-04-07,Wellness Distributors,263.08
+P024,Eye Drops,Medical Supply,27,2028-05-25,PharmaPlus,41.97
+P025,Nasal Spray,Tablet,109,2027-02-18,PharmaPlus,118.28
+P026,Metformin 500mg,Capsule,198,2028-01-14,LifeCare Suppliers,353.35
+P027,ORS Sachet,Tablet,45,2026-10-29,MediHealth Pvt Ltd,442.28
+P028,Cough Syrup,Syrup,59,2026-12-05,LifeCare Suppliers,275.91
+P029,Eye Drops,Ointment,123,2026-05-01,PharmaPlus,114.18
+P030,Hand Sanitizer,Injection,160,2026-06-01,LifeCare Suppliers,247.34
+P031,Bandage Roll,Injection,157,2027-10-15,Wellness Distributors,328.57
+P032,Multivitamin Capsules,Injection,6,2027-03-07,Wellness Distributors,93.5
+P033,Cetirizine 10mg,Ointment,41,2027-11-16,Wellness Distributors,156.55
+P034,Hand Sanitizer,Ointment,136,2028-06-17,Wellness Distributors,183.38
+P035,Aspirin 75mg,Capsule,188,2027-01-25,MediHealth Pvt Ltd,484.44
+P036,Bandage Roll,Medical Supply,117,2028-02-28,Wellness Distributors,144.86
+P037,Aspirin 75mg,Injection,53,2027-12-16,Wellness Distributors,304.45
+P038,Amoxicillin 250mg,Syrup,194,2027-04-29,Wellness Distributors,228.42
+P039,Glucose Powder,Tablet,113,2027-08-09,PharmaPlus,175.22
+P040,Cough Syrup,Syrup,71,2026-09-04,PharmaPlus,256.16
+P041,Multivitamin Capsules,Tablet,88,2027-03-13,LifeCare Suppliers,107.03
+P042,Paracetamol 500mg,Ointment,184,2027-08-10,MediHealth Pvt Ltd,473.11
+P043,Amoxicillin 250mg,Syrup,172,2028-03-13,LifeCare Suppliers,109.57
+P044,Bandage Roll,Tablet,54,2026-06-02,PharmaPlus,367.84
+P045,Ibuprofen 200mg,Injection,183,2028-04-27,LifeCare Suppliers,414.68
+P046,Ibuprofen 200mg,Syrup,105,2027-01-11,Wellness Distributors,455.01
+P047,Cetirizine 10mg,Ointment,69,2027-12-14,LifeCare Suppliers,303.15
+P048,Multivitamin Capsules,Ointment,23,2026-05-11,Wellness Distributors,374.83
+P049,Omeprazole 20mg,Capsule,55,2028-03-12,LifeCare Suppliers,422.91
+P050,Nasal Spray,Injection,102,2027-01-05,Wellness Distributors,75.97
+P051,Omeprazole 20mg,Medical Supply,40,2027-12-10,Wellness Distributors,456.16
+P052,Antacid Suspension,Ointment,80,2027-10-27,PharmaPlus,407.67
+P053,Bandage Roll,Ointment,91,2027-10-15,MediHealth Pvt Ltd,434.73
+P054,Multivitamin Capsules,Tablet,69,2028-01-04,Wellness Distributors,117.43
+P055,Paracetamol 500mg,Ointment,146,2026-06-13,PharmaPlus,490.91
+P056,Ibuprofen 200mg,Capsule,190,2026-12-28,MediHealth Pvt Ltd,176.97
+P057,Bandage Roll,Syrup,166,2027-10-01,Wellness Distributors,39.33
+P058,Omeprazole 20mg,Medical Supply,136,2028-02-29,MediHealth Pvt Ltd,282.24
+P059,Cetirizine 10mg,Tablet,61,2027-05-10,PharmaPlus,468.68
+P060,Insulin Injection,Medical Supply,40,2027-11-07,Wellness Distributors,108.36
+P061,Multivitamin Capsules,Syrup,189,2026-05-11,MediHealth Pvt Ltd,118.02
+P062,Nasal Spray,Syrup,42,2028-03-27,MediHealth Pvt Ltd,491.09
+P063,Amoxicillin 250mg,Tablet,135,2027-03-15,MediHealth Pvt Ltd,424.93
+P064,Insulin Injection,Injection,83,2027-07-26,Wellness Distributors,488.66
+P065,Pain Relief Gel,Capsule,20,2027-11-24,MediHealth Pvt Ltd,41.53
+P066,ORS Sachet,Injection,74,2026-06-07,MediHealth Pvt Ltd,486.13
+P067,Paracetamol 500mg,Tablet,39,2028-05-03,PharmaPlus,451.81
+P068,Cough Syrup,Capsule,95,2027-12-25,Wellness Distributors,45.99
+P069,Azithromycin 500mg,Capsule,110,2026-08-17,Wellness Distributors,29.65
+P070,Eye Drops,Capsule,66,2028-07-13,PharmaPlus,11.64
+P071,Amoxicillin 250mg,Medical Supply,195,2027-10-05,LifeCare Suppliers,198.51
+P072,Insulin Injection,Ointment,124,2027-03-07,PharmaPlus,480.71
+P073,Ibuprofen 200mg,Capsule,36,2027-12-30,PharmaPlus,356.18
+P074,Eye Drops,Capsule,172,2026-12-16,Wellness Distributors,483.38
+P075,Pain Relief Gel,Medical Supply,158,2026-09-03,LifeCare Suppliers,318.98
+P076,Pain Relief Gel,Tablet,82,2027-05-09,PharmaPlus,36.08
+P077,Cough Syrup,Medical Supply,86,2028-04-30,LifeCare Suppliers,422.94
+P078,Nasal Spray,Syrup,47,2027-12-03,PharmaPlus,98.65
+P079,Paracetamol 500mg,Injection,103,2027-10-16,MediHealth Pvt Ltd,416.92
+P080,Omeprazole 20mg,Ointment,42,2026-09-25,PharmaPlus,389.11
+P081,Cetirizine 10mg,Injection,172,2026-07-24,LifeCare Suppliers,392.57
+P082,Cough Syrup,Syrup,101,2028-03-30,PharmaPlus,384.29
+P083,Vitamin C Tablets,Tablet,173,2028-03-06,MediHealth Pvt Ltd,485.86
+P084,Pain Relief Gel,Tablet,110,2026-05-02,LifeCare Suppliers,23.43
+P085,Antacid Suspension,Medical Supply,98,2027-06-10,PharmaPlus,197.38
+P086,Eye Drops,Tablet,90,2028-01-03,LifeCare Suppliers,296.94
+P087,Bandage Roll,Injection,7,2027-10-15,PharmaPlus,470.05
+P088,Insulin Injection,Tablet,152,2028-07-22,PharmaPlus,377.21
+P089,Insulin Injection,Injection,174,2028-02-29,PharmaPlus,204.56
+P090,Glucose Powder,Ointment,52,2027-08-09,MediHealth Pvt Ltd,493.9
+P091,Cough Syrup,Ointment,78,2028-05-09,PharmaPlus,236.12
+P092,Paracetamol 500mg,Syrup,9,2027-01-30,LifeCare Suppliers,397.54
+P093,Paracetamol 500mg,Ointment,47,2026-06-20,MediHealth Pvt Ltd,110.11
+P094,Cough Syrup,Medical Supply,143,2027-11-07,PharmaPlus,62.7
+P095,Cetirizine 10mg,Tablet,84,2028-03-25,LifeCare Suppliers,245.93
+P096,Vitamin C Tablets,Syrup,125,2027-01-16,LifeCare Suppliers,463.13
+P097,Paracetamol 500mg,Tablet,46,2028-06-01,Wellness Distributors,437.46
+P098,Paracetamol 500mg,Tablet,34,2026-10-24,LifeCare Suppliers,15.0
+P099,Azithromycin 500mg,Capsule,165,2028-05-24,PharmaPlus,345.75
+P100,Eye Drops,Injection,180,2028-06-28,LifeCare Suppliers,72.56
